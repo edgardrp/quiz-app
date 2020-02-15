@@ -1,0 +1,44 @@
+[
+    {
+        "type" : "singleOption",
+        "controlType": 1,
+        "text" : "How do you describe yourself as a developer?",
+        "answers" : [
+            "Hermit",
+            "Sociable",
+            "Serious",
+            "Grumpy",
+            "do not know yet"
+        ]
+    },
+    {
+        "type" : "multipleOption",
+        "controlType" : 2,
+        "text" : "Select the JavaScript based technologies:",
+        "answers" : [
+            "AngularJS",
+            "Ember",
+            "VueJS",
+            "Java",
+            "C#"
+        ]
+    },
+    {
+        "type" : "openEnded",
+        "controlType" : 3,
+        "text" : "Do you know what a pallindrome is? If you do, please enter one",
+        "answers" : [""]
+    },
+    {
+        "type" : "openEnded",
+        "controlType" : 3,
+        "text" : "Lets see if you can write a pallindrome! Please, enter a word and then write in reverse to check if it's a pallindrome.",
+        "answers" : ["", ""]
+    },
+    {
+        "type" : "singleOption",
+        "controlType" : 1,
+        "text" : "Please, select your prefered restaurant from the shown below.",
+        "answers" : []
+    }
+]
